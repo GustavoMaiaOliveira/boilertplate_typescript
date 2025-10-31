@@ -9,6 +9,11 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "tsup": "^8.5.0",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/node": "^24.9.2",
+    "tsx": "^4.20.6"
   }
 }
