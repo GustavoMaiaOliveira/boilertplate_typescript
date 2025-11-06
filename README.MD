@@ -37,7 +37,7 @@ This code source have the following items:
 ### ⚡ Scripts
 
 - `npx tsc <example.ts>`: Compilate to code for JavaScript.
-- `tsx <example.ts>`: Run the TypeScript code in real time.
+- `npx tsx <example.ts>`: Run the TypeScript code in real time.
 
 
 # 👨‍💻 How To Use
